@@ -12,6 +12,6 @@
         <li>{{$numbers[0]}}</li>
         <li>{{$numbers[1]}}</li>
         <li>{{$numbers[2]}}</li>
-    </ul>
+    </ul> 
  </body>
 </html>
